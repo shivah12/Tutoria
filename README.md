@@ -1,6 +1,5 @@
 # Tutoria
 
-  <h1>Tutoria</h1>
 
   <p>Tutoria is a free online learning platform built with React, Vite, and AOS (Animate On Scroll) animations. It aims to provide high-quality educational content to users worldwide.</p>
 
