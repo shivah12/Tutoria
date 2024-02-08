@@ -88,7 +88,7 @@ const Navbar = () => {
           to="home"
           spy={true}
           smooth={true}
-          duration={1000}
+          duration={7000}
           className="hover:text-[#539165] transition-all cursor-pointer"
         >
           Home
@@ -97,7 +97,7 @@ const Navbar = () => {
           to="about"
           spy={true}
           smooth={true}
-          duration={1000}
+          duration={7000}
           className="hover:text-[#539165] transition-all cursor-pointer"
         >
           About
@@ -106,7 +106,7 @@ const Navbar = () => {
           to="courses"
           spy={true}
           smooth={true}
-          duration={1000}
+          duration={7000}
           className="hover:text-[#539165] transition-all cursor-pointer"
         >
           Courses
@@ -115,7 +115,7 @@ const Navbar = () => {
           to="reviews"
           spy={true}
           smooth={true}
-          duration={1000}
+          duration={7000}
           className="hover:text-[#539165] transition-all cursor-pointer"
         >
           Reviews
@@ -124,7 +124,7 @@ const Navbar = () => {
           to="contact"
           spy={true}
           smooth={true}
-          duration={1000}
+          duration={7000}
           className="hover:text-[#539165] transition-all cursor-pointer"
         >
           Contact
