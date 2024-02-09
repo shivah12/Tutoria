@@ -10,7 +10,7 @@
   <ul>
     <li>Access a wide range of courses covering various subjects, from programming and web development to language learning and business management.</li>
     <li>Enjoy a seamless learning experience across all devices, including desktops, tablets, and smartphones.</li>
-    <li>Enhance user experience with elegant AOS animations that bring content to life as users scroll through the website.</li>
+    <li>Enhance user experience by 70% with elegant AOS animations that bring content to life as users scroll through the website.</li>
    
   </ul>
 
